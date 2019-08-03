@@ -1,10 +1,14 @@
 # PETSYNTH
 Restoration of the PETSYNTH software used on the Commodore PET
 
-Files downloaded from the archived website: https://web.archive.org/web/20110727173412/http://www.petsynth.org/downloads_source/
+#Files downloaded from the archived website:
+https://web.archive.org/web/20110727173412/http://www.petsynth.org/downloads_source/
 
 Help out if you have experience programming C or would like to learn!
 
+
+# Commodore Emulator (VICE):
+http://vice-emu.sourceforge.net/
 
 Informative links:
 https://web.archive.org/web/20110727172426/http://www.petsynth.org/
