@@ -10,7 +10,7 @@ https://web.archive.org/web/20110727173412/http://www.petsynth.org/downloads_sou
 
 
 
-### Installing the Commodore Emulator (VICE)
+### Installing the Commodore Emulator (VICE):
 http://vice-emu.sourceforge.net/
 
 Packages needed for install on Linux (Debian):
