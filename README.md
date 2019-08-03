@@ -13,7 +13,7 @@ http://vice-emu.sourceforge.net/
 https://www.masswerk.at/pet/
 
 ## Informative links:
-### Commodore PET Repair and Restore by The 8-Bit Guy
+#### Commodore PET Repair and Restore by The 8-Bit Guy
 https://www.youtube.com/watch?v=uHbhH7ISL_Y
 
 https://vice-emu.pokefinder.org/index.php/VICEKB
