@@ -42,3 +42,8 @@ https://www.masswerk.at/pet/
 | SD Card for PET | https://petsd.net/ |
 | Keys for VICE Emulator | https://vice-emu.pokefinder.org/index.php/VICEKB |
 | Dangerous pokes (killer poke) | http://www.6502.org/users/andre/petindex/poke/index.html |
+
+
+## Freenode IRCs
+#vice-dev
+#c64friends
