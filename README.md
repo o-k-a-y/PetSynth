@@ -1,5 +1,5 @@
-# PETSYNTH
-Restoration of the PETSYNTH software created Chiron Bramberger used on the Commodore PET to play music.
+# PetSynth
+Restoration of the PetSynth software created Chiron Bramberger used on the Commodore PET to play music.
 Help out if you have experience programming C or would like to learn!
 
 ## Files downloaded from the archived website:
