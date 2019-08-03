@@ -11,10 +11,13 @@ https://web.archive.org/web/20110727173412/http://www.petsynth.org/downloads_sou
 
 
 ## Commodore Emulator (VICE):
+### Installation
 http://vice-emu.sourceforge.net/
+```sh
 Packages needed for install on Linux (Debian):
 sudo apt-get install libsdl2-dev mawk make
 cd ./confiure && Make install
+```
 
 ### GUI Emulator:
 https://www.masswerk.at/pet/
