@@ -30,7 +30,7 @@ https://www.youtube.com/watch?v=-zfe0BKZxuQ
 ### Commodore Pet GUI Emulator:
 https://www.masswerk.at/pet/
 
-### Compiling C for the Commodore PET:
+## Compiling C for the Commodore PET:
 Linux:
 ```sh
 sudo apt-get install cc65
