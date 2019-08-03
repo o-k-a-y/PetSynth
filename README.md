@@ -11,5 +11,6 @@ Help out if you have experience programming C or would like to learn!
 http://vice-emu.sourceforge.net/
 
 ## Informative links:
+https://vice-emu.pokefinder.org/index.php/VICEKB
 https://web.archive.org/web/20110727172426/http://www.petsynth.org/
 https://web.archive.org/web/20110804215111/http://www.6502.org/users/andre/petindex/poke/index.html
