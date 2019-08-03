@@ -12,7 +12,8 @@ https://web.archive.org/web/20110727173412/http://www.petsynth.org/downloads_sou
 
 ### Installing the Commodore Emulator (VICE):
 http://vice-emu.sourceforge.net/
-You may not be able to get sounds from the emulators, but 
+
+I haven't tested if you can get sounds to play on the emulator, but this is still useful to test and debug.
 
 #### Linux (Debian):
 ```sh
