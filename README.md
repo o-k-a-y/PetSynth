@@ -34,7 +34,11 @@ https://www.masswerk.at/pet/
 Linux:
 ```sh
 sudo apt-get install cc65
+git clone https://github.com/cc65/cc65.git
+cd cc65
+make
 ```
+Windows:
 
 ## Informative links:
 | Information | Link |
