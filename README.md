@@ -35,7 +35,7 @@ https://www.masswerk.at/pet/
 | Information | Link |
 |------|------|
 | Archive of source code | [PetSynth Website](https://web.archive.org/web/20110727172426/http://www.petsynth.org/) |
-| Compiling and modiyfing source code | [Compile and modify](https://web.archive.org/web/20121014022810/http://www.petsynth.org/support/compiling_and_modifying_the.html)|
+| Compiling and modiyfing source code | [Compile and modify](https://web.archive.org/web/20121014022810/http://www.petsynth.org/support/compiling_and_modifying_the.html) |
 | Commodore PET Repair and Restore by The 8-Bit Guy | https://www.youtube.com/watch?v=uHbhH7ISL_Y |
 | Repair or upgrade your PET | http://www.tynemouthsoftware.co.uk/ |
 | SD Card for PET | https://petsd.net/ |
