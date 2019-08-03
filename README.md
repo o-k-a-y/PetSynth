@@ -18,8 +18,8 @@ https://www.masswerk.at/pet/
 ## Informative links:
 |  | Link |
 |------|------|
-| Archive of source code | https://web.archive.org/web/20110727172426/http://www.petsynth.org/ |
+| Archive of source code | [PetSynth Website](https://web.archive.org/web/20110727172426/http://www.petsynth.org/) |
 | Commodore PET Repair and Restore by The 8-Bit Guy | https://www.youtube.com/watch?v=uHbhH7ISL_Y |
 | Repair or upgrade your PET | http://www.tynemouthsoftware.co.uk/ |
 | Keys for VICE Emulator | https://vice-emu.pokefinder.org/index.php/VICEKB |
-| Dangerous pokes (killer poke) | https://web.archive.org/web/20110804215111/http://www.6502.org/users/andre/petindex/poke/index.html |
+| Dangerous pokes (killer poke) | http://www.6502.org/users/andre/petindex/poke/index.html |
