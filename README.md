@@ -13,7 +13,7 @@ https://web.archive.org/web/20110727173412/http://www.petsynth.org/downloads_sou
 ### Installing the Commodore Emulator (VICE):
 http://vice-emu.sourceforge.net/
 
-I haven't tested if you can get sounds to play on the emulator, but this is still useful to test and debug.
+You can use the emulators to upload .prc files and play sounds using PetSynth. Very useful for debugging.
 
 #### Linux (Debian):
 ```sh
@@ -36,6 +36,7 @@ https://www.masswerk.at/pet/
 |------|------|
 | Archive of source code | [PetSynth Website](https://web.archive.org/web/20110727172426/http://www.petsynth.org/) |
 | Compiling and modiyfing source code | [Compile and modify](https://web.archive.org/web/20121014022810/http://www.petsynth.org/support/compiling_and_modifying_the.html) |
+| Exporting files to PET (works for emulators) | [Exporting files](https://web.archive.org/web/20120313025210/http://www.petsynth.org/support/getting_files_out_of_your_p.html) |
 | Commodore PET Repair and Restore by The 8-Bit Guy | https://www.youtube.com/watch?v=uHbhH7ISL_Y |
 | Repair or upgrade your PET | http://www.tynemouthsoftware.co.uk/ |
 | SD Card for PET | https://petsd.net/ |
