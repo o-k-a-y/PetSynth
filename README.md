@@ -23,7 +23,7 @@ cd ./confiure && Make install
 https://www.masswerk.at/pet/
 
 ## Informative links:
-|  | Link |
+| Information | Link |
 |------|------|
 | Archive of source code | [PetSynth Website](https://web.archive.org/web/20110727172426/http://www.petsynth.org/) |
 | Commodore PET Repair and Restore by The 8-Bit Guy | https://www.youtube.com/watch?v=uHbhH7ISL_Y |
