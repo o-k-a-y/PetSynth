@@ -9,7 +9,6 @@ Inspired by LOOK MUM NO COMPUTER https://www.youtube.com/watch?v=vysJEpKIVkU
 https://web.archive.org/web/20110727173412/http://www.petsynth.org/downloads_source/
 
 
-
 ### Installing the Commodore Emulator (VICE):
 http://vice-emu.sourceforge.net/
 
@@ -30,6 +29,12 @@ https://www.youtube.com/watch?v=-zfe0BKZxuQ
 
 ### Commodore Pet GUI Emulator:
 https://www.masswerk.at/pet/
+
+### Compiling C for the Commodore PET:
+Linux:
+```sh
+sudo apt-get install cc65
+```
 
 ## Informative links:
 | Information | Link |
