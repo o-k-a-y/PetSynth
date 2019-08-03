@@ -19,7 +19,7 @@ sudo apt-get install libsdl2-dev mawk make
 cd ./confiure && Make install
 ```
 
-### GUI Emulator:
+### Commodore Pet GUI Emulator:
 https://www.masswerk.at/pet/
 
 ## Informative links:
