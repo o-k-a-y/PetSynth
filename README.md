@@ -12,11 +12,16 @@ https://web.archive.org/web/20110727173412/http://www.petsynth.org/downloads_sou
 
 ### Installing the Commodore Emulator (VICE):
 http://vice-emu.sourceforge.net/
+You may not be able to get sounds from the emulators, but 
 
 #### Linux (Debian):
 ```sh
 sudo apt-get install libsdl2-dev mawk make
 cd ./confiure && make install
+```
+If you have an error regarding tmp files, add "-pipe" to the CFLAGS in the Makefile after running ./configure or use the Makefile supplied in the VICE directory above.
+```
+CFLAGS = -pipe -g -O2 -I/usr/include/SDL2 -D_REENTRANT -g -O3 -march=native -Wstrict-prototypes -Wall -W -Wno-unused-parameter  -Wno-sign-compare -Wmissing-prototypes -Werror=implicit-function-declaration -Wfatal-errors -Wshadow
 ```
 #### Windows:
 https://www.youtube.com/watch?v=-zfe0BKZxuQ
@@ -31,5 +36,6 @@ https://www.masswerk.at/pet/
 | Archive of source code | [PetSynth Website](https://web.archive.org/web/20110727172426/http://www.petsynth.org/) |
 | Commodore PET Repair and Restore by The 8-Bit Guy | https://www.youtube.com/watch?v=uHbhH7ISL_Y |
 | Repair or upgrade your PET | http://www.tynemouthsoftware.co.uk/ |
+| SD Card for PET | https://petsd.net/ |
 | Keys for VICE Emulator | https://vice-emu.pokefinder.org/index.php/VICEKB |
 | Dangerous pokes (killer poke) | http://www.6502.org/users/andre/petindex/poke/index.html |
