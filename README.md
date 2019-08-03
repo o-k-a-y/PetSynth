@@ -1,9 +1,9 @@
-# PETSYNTH
-Restoration of the PETSYNTH software created Chiron Bramberger used on the Commodore PET to play music.
+# PetSynth
+Restoration of the PetSynth software created Chiron Bramberger used on the Commodore PET to play music.
 
 Inspired by LOOK MUM NO COMPUTER https://www.youtube.com/watch?v=vysJEpKIVkU
 
-Help out if you have experience programming C or would like to learn!
+*Help out if you have experience programming C or would like to learn!*
 
 ## Files downloaded from the archived website:
 https://web.archive.org/web/20110727173412/http://www.petsynth.org/downloads_source/
@@ -12,6 +12,10 @@ https://web.archive.org/web/20110727173412/http://www.petsynth.org/downloads_sou
 
 ## Commodore Emulator (VICE):
 http://vice-emu.sourceforge.net/
+Packages needed for install on Linux (Debian):
+sudo apt-get install libsdl2-dev mawk make
+cd ./confiure && Make install
+
 ### GUI Emulator:
 https://www.masswerk.at/pet/
 
