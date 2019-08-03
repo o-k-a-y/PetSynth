@@ -9,6 +9,8 @@ Help out if you have experience programming C or would like to learn!
 
 ## Commodore Emulator (VICE):
 http://vice-emu.sourceforge.net/
+### GUI Emulator:
+https://www.masswerk.at/pet/
 
 ## Informative links:
 https://vice-emu.pokefinder.org/index.php/VICEKB
