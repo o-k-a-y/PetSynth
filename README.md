@@ -1,5 +1,5 @@
 # PETSYNTH
-Restoration of the PETSYNTH software used on the Commodore PET
+Restoration of the PETSYNTH software used on the Commodore PET to play music.
 
 ## Files downloaded from the archived website:
 https://web.archive.org/web/20110727173412/http://www.petsynth.org/downloads_source/
