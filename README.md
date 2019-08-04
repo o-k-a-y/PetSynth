@@ -3,7 +3,7 @@ Restoration of the PetSynth software created by Chiron Bramberger used on the Co
 
 Inspired by LOOK MUM NO COMPUTER https://www.youtube.com/watch?v=vysJEpKIVkU
 
-*Help out if you have experience programming C/DOS or would like to learn!*
+*Help out if you have experience programming C/Assembly/BASIC or would like to learn!*
 
 ## Files downloaded from the archived website:
 https://web.archive.org/web/20110727173412/http://www.petsynth.org/downloads_source/
