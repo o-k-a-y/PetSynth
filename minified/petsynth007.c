@@ -31,11 +31,9 @@ Licence: GNU General Public License, version 2 (two)
 **********/
 
 
-#include <stdio.h>
 #include <stdlib.h>
 #include <conio.h>
 #include <peekpoke.h> 
-#include <time.h>
 #include <pet.h>
 
 /*
@@ -77,7 +75,7 @@ int main (void)
 	int vibrato_counter = 0;
 	
 	int last_note;
-	
+	int i = 0;	
 	
 	// inits ----------------
 	clrscr();
@@ -101,7 +99,7 @@ int main (void)
  	
 	
 	//text mode (with line spaces)
-	//putchar(14); 
+	putchar(14); 
 	
 	//uppercase/grphics mode (no space change) - POKE 59468,12 
 	//POKE(0xE84C, 0xC);
@@ -115,16 +113,13 @@ int main (void)
 	POKE( 0xE84B, 0x10 );
 	POKE( 0xE84A, current_octave); // octave 15
 	POKE( 0xE848, 0x0 ); // freq off
-	
+
 	// main event loop
 	for(;;){
-		
+		i = i + 1;	
 		//printf("counter: %i\n", counter);
 		
 		if (kbhit()) {
-			
-			printf("clock(): %g\n", clock() );
-			
 			key_hit = cgetc();
 			
 			POKE( 0xE848, 0x00); // quick silence???
