@@ -29,7 +29,7 @@ https://vice.pokefinder.org/
 https://www.youtube.com/watch?v=-zfe0BKZxuQ
 
 
-### Commodore Pet GUI Emulator:
+### Commodore Pet Web-Based GUI Emulator:
 https://www.masswerk.at/pet/
 
 ## Compiling C for the Commodore PET:
@@ -52,7 +52,7 @@ https://sourceforge.net/projects/cc65/files/cc65-snapshot-win32.zip/download
 | Archive of source code | [PetSynth Website](https://web.archive.org/web/20110727172426/http://www.petsynth.org/) |
 | Compiling and modiyfing source code | [Compile and modify](https://web.archive.org/web/20121014022810/http://www.petsynth.org/support/compiling_and_modifying_the.html) |
 | Exporting files to PET (works for emulators) | [Exporting files](https://web.archive.org/web/20120313025210/http://www.petsynth.org/support/getting_files_out_of_your_p.html) |
-| Changing PET Model | https://www.cs.cmu.edu/~dsladic/vice/doc/html/vice_7.html#SEC98 |
+| Changing PET Model in VICE | https://www.cs.cmu.edu/~dsladic/vice/doc/html/vice_7.html#SEC98 |
 | Commodore PET Repair and Restore by The 8-Bit Guy | https://www.youtube.com/watch?v=uHbhH7ISL_Y |
 | Repair or upgrade your PET | http://www.tynemouthsoftware.co.uk/ |
 | SD Card for PET | https://petsd.net/ |
