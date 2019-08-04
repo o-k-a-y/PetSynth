@@ -34,11 +34,15 @@ https://www.masswerk.at/pet/
 Linux:
 ```sh
 sudo apt-get install cc65
+```
+or
+```sh
 git clone https://github.com/cc65/cc65.git
 cd cc65
 make
 ```
 Windows:
+https://sourceforge.net/projects/cc65/files/cc65-snapshot-win32.zip/download
 
 ## Informative links:
 | Information | Link |
