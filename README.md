@@ -24,6 +24,7 @@ If you have an error regarding tmp files, add "-pipe" to the CFLAGS in the Makef
 CFLAGS = -pipe -g -O2 -I/usr/include/SDL2 -D_REENTRANT -g -O3 -march=native -Wstrict-prototypes -Wall -W -Wno-unused-parameter  -Wno-sign-compare -Wmissing-prototypes -Werror=implicit-function-declaration -Wfatal-errors -Wshadow
 ```
 #### Windows:
+https://vice.pokefinder.org/
 https://www.youtube.com/watch?v=-zfe0BKZxuQ
 
 
@@ -31,15 +32,15 @@ https://www.youtube.com/watch?v=-zfe0BKZxuQ
 https://www.masswerk.at/pet/
 
 ## Compiling C for the Commodore PET:
-Linux:
+Linux (Debian):
 ```sh
-sudo apt-get install cc65
+$ sudo apt-get install cc65
 ```
 or
 ```sh
-git clone https://github.com/cc65/cc65.git
-cd cc65
-make
+$ git clone https://github.com/cc65/cc65.git
+$ cd cc65
+$ make
 ```
 Windows:
 https://sourceforge.net/projects/cc65/files/cc65-snapshot-win32.zip/download
