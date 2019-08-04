@@ -60,5 +60,5 @@ https://sourceforge.net/projects/cc65/files/cc65-snapshot-win32.zip/download
 
 
 ## Freenode IRCs
-#vice-dev
-#c64friends
+- #vice-dev
+- #c64friends
