@@ -56,6 +56,15 @@ cl65 -t pet -m 4032 petsynth007.c -o petsynth007.prg
 ```
 The .prg is the executable you can directly load into the Commodore.
 
+## Choosing Commodore model in VICE
+```sh
+[commodore_emulator] -model [model_number]
+```
+Example:
+```sh
+xpet -model [4032]
+```
+
 ## Informative links:
 | Information | Link |
 |------|------|
