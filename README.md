@@ -62,7 +62,7 @@ $ [commodore_emulator] -model [model_number]
 ```
 Example:
 ```sh
-$ xpet -model [4032]
+$ xpet -model 4032
 ```
 
 ## Informative links:
