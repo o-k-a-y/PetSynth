@@ -48,21 +48,21 @@ https://sourceforge.net/projects/cc65/files/cc65-snapshot-win32.zip/download
 
 #### Compiling and linking code
 ```sh
-cl65 -t [commodore_type] -m [commodore_model] file.c -o [output_name].prg
+$ cl65 -t [commodore_type] -m [commodore_model] file.c -o [output_name].prg
 ```
 Example:
 ```sh
-cl65 -t pet -m 4032 petsynth007.c -o petsynth007.prg
+$ cl65 -t pet -m 4032 petsynth007.c -o petsynth007.prg
 ```
 The .prg is the executable you can directly load into the Commodore.
 
 ## Choosing Commodore model in VICE
 ```sh
-[commodore_emulator] -model [model_number]
+$ [commodore_emulator] -model [model_number]
 ```
 Example:
 ```sh
-xpet -model [4032]
+$ xpet -model [4032]
 ```
 
 ## Informative links:
