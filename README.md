@@ -32,7 +32,7 @@ https://www.youtube.com/watch?v=-zfe0BKZxuQ
 ### Commodore Pet Web-Based GUI Emulator:
 https://www.masswerk.at/pet/
 
-## Compiling C for the Commodore PET:
+## Compiler for the Commodore PET:
 Linux (Debian):
 ```sh
 $ sudo apt-get install cc65
@@ -45,6 +45,16 @@ $ make
 ```
 Windows:
 https://sourceforge.net/projects/cc65/files/cc65-snapshot-win32.zip/download
+
+#### Compiling and linking code
+```sh
+cl65 -t [commodore_type] -m [commodore_model] -o [output_name].prg
+```
+Example:
+```sh
+cl65 -t pet -m 4032 petsynth007.c -o petsynth007.prg
+```
+The .prg is the executable you can directly load into the Commodore.
 
 ## Informative links:
 | Information | Link |
