@@ -48,7 +48,7 @@ https://sourceforge.net/projects/cc65/files/cc65-snapshot-win32.zip/download
 
 #### Compiling and linking code
 ```sh
-cl65 -t [commodore_type] -m [commodore_model] -o [output_name].prg
+cl65 -t [commodore_type] file.c -m [commodore_model] -o [output_name].prg
 ```
 Example:
 ```sh
