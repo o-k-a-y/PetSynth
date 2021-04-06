@@ -1,0 +1,440 @@
+Modules list:
+-------------
+test.o:
+    CODE              Offs=000000  Size=00001D  Align=00001  Fill=0000
+    RODATA            Offs=000000  Size=00000F  Align=00001  Fill=0000
+/usr/share/cc65/lib/pet.lib(_directerrno.o):
+    CODE              Offs=00001D  Size=00000A  Align=00001  Fill=0000
+/usr/share/cc65/lib/pet.lib(_file.o):
+    DATA              Offs=000000  Size=00001E  Align=00001  Fill=0000
+/usr/share/cc65/lib/pet.lib(_hextab.o):
+    RODATA            Offs=00000F  Size=000010  Align=00001  Fill=0000
+/usr/share/cc65/lib/pet.lib(_longminstr.o):
+    RODATA            Offs=00001F  Size=00000C  Align=00001  Fill=0000
+/usr/share/cc65/lib/pet.lib(_mappederrno.o):
+    CODE              Offs=000027  Size=000010  Align=00001  Fill=0000
+/usr/share/cc65/lib/pet.lib(_oserror.o):
+    BSS               Offs=000000  Size=000001  Align=00001  Fill=0000
+/usr/share/cc65/lib/pet.lib(_printf.o):
+    CODE              Offs=000037  Size=0003A5  Align=00001  Fill=0000
+    BSS               Offs=000001  Size=00002B  Align=00001  Fill=0000
+    DATA              Offs=00001E  Size=000003  Align=00001  Fill=0000
+/usr/share/cc65/lib/pet.lib(_seterrno.o):
+    CODE              Offs=0003DC  Size=000009  Align=00001  Fill=0000
+/usr/share/cc65/lib/pet.lib(addysp.o):
+    CODE              Offs=0003E5  Size=00000E  Align=00001  Fill=0000
+/usr/share/cc65/lib/pet.lib(axlong.o):
+    CODE              Offs=0003F3  Size=00000D  Align=00001  Fill=0000
+/usr/share/cc65/lib/pet.lib(callmain.o):
+    CODE              Offs=000400  Size=000017  Align=00001  Fill=0000
+    DATA              Offs=000021  Size=000004  Align=00001  Fill=0000
+/usr/share/cc65/lib/pet.lib(checkst.o):
+    CODE              Offs=000417  Size=00000A  Align=00001  Fill=0000
+/usr/share/cc65/lib/pet.lib(condes.o):
+    CODE              Offs=000421  Size=00000C  Align=00001  Fill=0000
+    DATA              Offs=000025  Size=000025  Align=00001  Fill=0000
+    ONCE              Offs=000000  Size=00000C  Align=00001  Fill=0000
+/usr/share/cc65/lib/pet.lib(crt0.o):
+    BSS               Offs=00002C  Size=000002  Align=00001  Fill=0000
+    STARTUP           Offs=000000  Size=000040  Align=00001  Fill=0000
+    INIT              Offs=000000  Size=00001A  Align=00001  Fill=0000
+/usr/share/cc65/lib/pet.lib(ctype.o):
+    RODATA            Offs=00002B  Size=000100  Align=00001  Fill=0000
+/usr/share/cc65/lib/pet.lib(decsp4.o):
+    CODE              Offs=00042D  Size=00000D  Align=00001  Fill=0000
+/usr/share/cc65/lib/pet.lib(decsp6.o):
+    CODE              Offs=00043A  Size=00000D  Align=00001  Fill=0000
+/usr/share/cc65/lib/pet.lib(errno.o):
+    BSS               Offs=00002E  Size=000002  Align=00001  Fill=0000
+/usr/share/cc65/lib/pet.lib(exehdr.o):
+    EXEHDR            Offs=000000  Size=00000C  Align=00001  Fill=0000
+/usr/share/cc65/lib/pet.lib(filedes.o):
+    CODE              Offs=000447  Size=00000E  Align=00001  Fill=0000
+    DATA              Offs=00004A  Size=000010  Align=00001  Fill=0000
+/usr/share/cc65/lib/pet.lib(fwrite.o):
+    CODE              Offs=000455  Size=00007B  Align=00001  Fill=0000
+    BSS               Offs=000030  Size=000002  Align=00001  Fill=0000
+/usr/share/cc65/lib/pet.lib(incsp2.o):
+    CODE              Offs=0004D0  Size=000016  Align=00001  Fill=0000
+/usr/share/cc65/lib/pet.lib(incsp6.o):
+    CODE              Offs=0004E6  Size=000005  Align=00001  Fill=0000
+/usr/share/cc65/lib/pet.lib(kbsout.o):
+    CODE              Offs=0004EB  Size=000006  Align=00001  Fill=0000
+/usr/share/cc65/lib/pet.lib(kckout.o):
+    CODE              Offs=0004F1  Size=000006  Align=00001  Fill=0000
+/usr/share/cc65/lib/pet.lib(kernal.o):
+/usr/share/cc65/lib/pet.lib(kopen.o):
+    CODE              Offs=0004F7  Size=000013  Align=00001  Fill=0000
+/usr/share/cc65/lib/pet.lib(kreadst.o):
+    CODE              Offs=00050A  Size=000003  Align=00001  Fill=0000
+/usr/share/cc65/lib/pet.lib(ksetlfs.o):
+    CODE              Offs=00050D  Size=000007  Align=00001  Fill=0000
+/usr/share/cc65/lib/pet.lib(ldaxsp.o):
+    CODE              Offs=000514  Size=000009  Align=00001  Fill=0000
+/usr/share/cc65/lib/pet.lib(loadaddr.o):
+    LOADADDR          Offs=000000  Size=000002  Align=00001  Fill=0000
+/usr/share/cc65/lib/pet.lib(lpush.o):
+    CODE              Offs=00051D  Size=000021  Align=00001  Fill=0000
+/usr/share/cc65/lib/pet.lib(ltoa.o):
+    CODE              Offs=00053E  Size=0000AF  Align=00001  Fill=0000
+/usr/share/cc65/lib/pet.lib(mul.o):
+    CODE              Offs=0005ED  Size=000045  Align=00001  Fill=0000
+/usr/share/cc65/lib/pet.lib(mul8.o):
+    CODE              Offs=000632  Size=00003A  Align=00001  Fill=0000
+/usr/share/cc65/lib/pet.lib(oserror.o):
+    CODE              Offs=00066C  Size=000016  Align=00001  Fill=0000
+    RODATA            Offs=00012B  Size=00005A  Align=00001  Fill=0000
+/usr/share/cc65/lib/pet.lib(popsreg.o):
+    CODE              Offs=000682  Size=000010  Align=00001  Fill=0000
+/usr/share/cc65/lib/pet.lib(printf.o):
+    CODE              Offs=000692  Size=000033  Align=00001  Fill=0000
+    BSS               Offs=000032  Size=000001  Align=00001  Fill=0000
+/usr/share/cc65/lib/pet.lib(push1.o):
+    CODE              Offs=0006C5  Size=000005  Align=00001  Fill=0000
+/usr/share/cc65/lib/pet.lib(pushax.o):
+    CODE              Offs=0006CA  Size=00001A  Align=00001  Fill=0000
+/usr/share/cc65/lib/pet.lib(pushwsp.o):
+    CODE              Offs=0006E4  Size=00001C  Align=00001  Fill=0000
+/usr/share/cc65/lib/pet.lib(puts.o):
+    CODE              Offs=000700  Size=000069  Align=00001  Fill=0000
+    DATA              Offs=00005A  Size=000001  Align=00001  Fill=0000
+/usr/share/cc65/lib/pet.lib(rwcommon.o):
+    CODE              Offs=000769  Size=000022  Align=00001  Fill=0000
+/usr/share/cc65/lib/pet.lib(status.o):
+/usr/share/cc65/lib/pet.lib(strlen.o):
+    CODE              Offs=00078B  Size=000016  Align=00001  Fill=0000
+/usr/share/cc65/lib/pet.lib(strlower.o):
+    CODE              Offs=0007A1  Size=000028  Align=00001  Fill=0000
+/usr/share/cc65/lib/pet.lib(udiv.o):
+    CODE              Offs=0007C9  Size=00004F  Align=00001  Fill=0000
+/usr/share/cc65/lib/pet.lib(vfprintf.o):
+    CODE              Offs=000818  Size=000061  Align=00001  Fill=0000
+    DATA              Offs=00005B  Size=000008  Align=00001  Fill=0000
+/usr/share/cc65/lib/pet.lib(write.o):
+    CODE              Offs=000879  Size=000054  Align=00001  Fill=0000
+    ONCE              Offs=00000C  Size=000011  Align=00001  Fill=0000
+/usr/share/cc65/lib/pet.lib(zerobss.o):
+    CODE              Offs=0008CD  Size=000023  Align=00001  Fill=0000
+/usr/share/cc65/lib/pet.lib(zeropage.o):
+    ZEROPAGE          Offs=000000  Size=00001A  Align=00001  Fill=0000
+
+
+Segment list:
+-------------
+Name                   Start     End    Size  Align
+----------------------------------------------------
+ZEROPAGE              000055  00006E  00001A  00001
+LOADADDR              0003FF  000400  000002  00001
+EXEHDR                000401  00040C  00000C  00001
+STARTUP               00040D  00044C  000040  00001
+ONCE                  00044D  00046B  00001F  00001
+CODE                  00046C  000D5B  0008F0  00001
+RODATA                000D5C  000EE0  000185  00001
+DATA                  000EE1  000F43  000063  00001
+INIT                  000F44  000F5D  00001A  00001
+BSS                   000F5E  000F90  000033  00001
+
+
+Exports list by name:
+---------------------
+BSOUT                     000957 RLA    CKOUT                     00095D RLA    
+CLRCH                     00FFCC REA    OPEN                      000963 RLA    
+READST                    000976 RLA    SETLFS                    000979 RLA    
+ST                        000096 RLZ    __BSS_RUN__               000F5E RLA    
+__BSS_SIZE__              000033 REA    __CONSTRUCTOR_COUNT__     000001 REA    
+__CONSTRUCTOR_TABLE__     00046A RLA    __DESTRUCTOR_COUNT__      000000 REA    
+__DESTRUCTOR_TABLE__      000EE1 RLA    __EXEHDR__                000001 REA    
+__LOADADDR__              000001 REA    __STACKSIZE__             000800 REA    
+__STARTUP__               000001 REA    __ctype                   000D87 RLA    
+__directerrno             000489 RLA    __errno                   000F8C RLA    
+__hextab                  000D6B RLA    __longminstr              000D7B RLA    
+__mappederrno             000493 RLA    __oserror                 000F5E RLA    
+__osmaperrno              000AD8 RLA    __printf                  000596 RLA    
+__seterrno                000848 RLA    _fwrite                   0008C1 RLA    
+_ltoa                     0009C6 RLA    _main                     00046C RLA    
+_printf                   000AFE RLA    _puts                     000B6C RLA    
+_stdout                   000EFB RLA    _strlen                   000BF7 RLA    
+_strlower                 000C0D RLA    _ultoa                    000A1D RLA    
+_vfprintf                 000CBC RLA    _write                    000CE5 RLA    
+addysp                    000852 RLA    axlong                    00085F RLA    
+axulong                   000865 RLA    callmain                  00086C RLA    
+checkst                   000883 RLA    decsp4                    000899 RLA    
+decsp6                    0008A6 RLA    donelib                   00088D RLA    
+fdtab                     000F2B RLA    incsp2                    000944 RLA    
+incsp6                    000952 RLA    initlib                   00044D RLA    
+initstdout                000459  LAI   ldaxysp                   000982 RLA    
+mul8x16                   000AA0 RLA    mul8x16a                  000AAB RLA    
+popax                     00093C RLA    popsreg                   000AEE RLA    
+ptr1                      00005D RLZ    ptr2                      00005F RLZ    
+ptr3                      000061 RLZ    ptr4                      000063 RLZ    
+push1                     000B31 RLA    pusha0                    000B38 RLA    
+pushax                    000B3A RLA    pusheax                   000992 RLA    
+pushwysp                  000B52 RLA    regbank                   000069 RLZ    
+rwcommon                  000BD5 RLA    sp                        000055 RLZ    
+sreg                      000057 RLZ    tmp1                      000065 RLZ    
+tmp2                      000066 RLZ    tosudivax                 000C37 RLA    
+tosumulax                 000A59 RLA    zerobss                   000D39 RLA    
+
+
+
+Exports list by value:
+----------------------
+__DESTRUCTOR_COUNT__      000000 REA    __CONSTRUCTOR_COUNT__     000001 REA    
+__EXEHDR__                000001 REA    __LOADADDR__              000001 REA    
+__STARTUP__               000001 REA    __BSS_SIZE__              000033 REA    
+sp                        000055 RLZ    sreg                      000057 RLZ    
+ptr1                      00005D RLZ    ptr2                      00005F RLZ    
+ptr3                      000061 RLZ    ptr4                      000063 RLZ    
+tmp1                      000065 RLZ    tmp2                      000066 RLZ    
+regbank                   000069 RLZ    ST                        000096 RLZ    
+initlib                   00044D RLA    initstdout                000459  LAI   
+__CONSTRUCTOR_TABLE__     00046A RLA    _main                     00046C RLA    
+__directerrno             000489 RLA    __mappederrno             000493 RLA    
+__printf                  000596 RLA    __STACKSIZE__             000800 REA    
+__seterrno                000848 RLA    addysp                    000852 RLA    
+axlong                    00085F RLA    axulong                   000865 RLA    
+callmain                  00086C RLA    checkst                   000883 RLA    
+donelib                   00088D RLA    decsp4                    000899 RLA    
+decsp6                    0008A6 RLA    _fwrite                   0008C1 RLA    
+popax                     00093C RLA    incsp2                    000944 RLA    
+incsp6                    000952 RLA    BSOUT                     000957 RLA    
+CKOUT                     00095D RLA    OPEN                      000963 RLA    
+READST                    000976 RLA    SETLFS                    000979 RLA    
+ldaxysp                   000982 RLA    pusheax                   000992 RLA    
+_ltoa                     0009C6 RLA    _ultoa                    000A1D RLA    
+tosumulax                 000A59 RLA    mul8x16                   000AA0 RLA    
+mul8x16a                  000AAB RLA    __osmaperrno              000AD8 RLA    
+popsreg                   000AEE RLA    _printf                   000AFE RLA    
+push1                     000B31 RLA    pusha0                    000B38 RLA    
+pushax                    000B3A RLA    pushwysp                  000B52 RLA    
+_puts                     000B6C RLA    rwcommon                  000BD5 RLA    
+_strlen                   000BF7 RLA    _strlower                 000C0D RLA    
+tosudivax                 000C37 RLA    _vfprintf                 000CBC RLA    
+_write                    000CE5 RLA    zerobss                   000D39 RLA    
+__hextab                  000D6B RLA    __longminstr              000D7B RLA    
+__ctype                   000D87 RLA    __DESTRUCTOR_TABLE__      000EE1 RLA    
+_stdout                   000EFB RLA    fdtab                     000F2B RLA    
+__BSS_RUN__               000F5E RLA    __oserror                 000F5E RLA    
+__errno                   000F8C RLA    CLRCH                     00FFCC REA    
+
+
+
+Imports list:
+-------------
+BSOUT (kbsout.o):
+    write.o                   cbm/write.s(10)
+    crt0.o                    pet/crt0.s(10)
+CKOUT (kckout.o):
+    write.o                   cbm/write.s(10)
+CLRCH (kernal.o):
+    write.o                   cbm/write.s(10)
+OPEN (kopen.o):
+    write.o                   cbm/write.s(10)
+READST (kreadst.o):
+    write.o                   cbm/write.s(10)
+SETLFS (ksetlfs.o):
+    write.o                   cbm/write.s(10)
+ST (status.o):
+    kreadst.o                 pet/kreadst.s(8)
+    checkst.o                 pet/checkst.s(9)
+    crt0.o                    pet/crt0.s(11)
+__BSS_RUN__ ([linker generated]):
+    zerobss.o                 common/zerobss.s(8)
+__BSS_SIZE__ ([linker generated]):
+    zerobss.o                 common/zerobss.s(8)
+__CONSTRUCTOR_COUNT__ ([linker generated]):
+    condes.o                  runtime/condes.s(18)
+__CONSTRUCTOR_TABLE__ ([linker generated]):
+    condes.o                  runtime/condes.s(18)
+__DESTRUCTOR_COUNT__ ([linker generated]):
+    condes.o                  runtime/condes.s(19)
+__DESTRUCTOR_TABLE__ ([linker generated]):
+    condes.o                  runtime/condes.s(19)
+__EXEHDR__ (exehdr.o):
+    [linker generated]        /usr/share/cc65/cfg/pet.cfg(3)
+__LOADADDR__ (loadaddr.o):
+    [linker generated]        /usr/share/cc65/cfg/pet.cfg(2)
+__STACKSIZE__ ([linker generated]):
+    [linker generated]        /usr/share/cc65/cfg/pet.cfg(10)
+__STARTUP__ (crt0.o):
+    test.o                    test.s(13)
+__ctype (ctype.o):
+    strlower.o                common/strlower.s(13)
+__directerrno (_directerrno.o):
+    write.o                   /build/cc65-u5XJyk/cc65-2.16/asminc/errno.inc(10)
+__errno (errno.o):
+    _seterrno.o               /build/cc65-u5XJyk/cc65-2.16/asminc/errno.inc(7)
+__hextab (_hextab.o):
+    ltoa.o                    common/ltoa.s(10)
+__longminstr (_longminstr.o):
+    ltoa.o                    common/ltoa.s(10)
+__mappederrno (_mappederrno.o):
+    write.o                   /build/cc65-u5XJyk/cc65-2.16/asminc/errno.inc(10)
+__oserror (_oserror.o):
+    _mappederrno.o            /build/cc65-u5XJyk/cc65-2.16/asminc/errno.inc(7)
+    _directerrno.o            /build/cc65-u5XJyk/cc65-2.16/asminc/errno.inc(7)
+    write.o                   /build/cc65-u5XJyk/cc65-2.16/asminc/errno.inc(7)
+__osmaperrno (oserror.o):
+    _mappederrno.o            /build/cc65-u5XJyk/cc65-2.16/asminc/errno.inc(8)
+__printf (_printf.o):
+    vfprintf.o                common/vfprintf.s(10)
+__seterrno (_seterrno.o):
+    fwrite.o                  /build/cc65-u5XJyk/cc65-2.16/asminc/errno.inc(9)
+    _mappederrno.o            /build/cc65-u5XJyk/cc65-2.16/asminc/errno.inc(9)
+    _directerrno.o            /build/cc65-u5XJyk/cc65-2.16/asminc/errno.inc(9)
+_fwrite (fwrite.o):
+    vfprintf.o                common/vfprintf.s(10)
+_ltoa (ltoa.o):
+    _printf.o                 common/_printf.s(12)
+_main (test.o):
+    callmain.o                runtime/callmain.s(11)
+_printf (printf.o):
+    test.o                    test.s(14)
+_puts (puts.o):
+    test.o                    test.s(15)
+_stdout (_file.o):
+    puts.o                    ../libwrk/pet/puts.s(13)
+    printf.o                  common/printf.s(8)
+_strlen (strlen.o):
+    _printf.o                 common/_printf.s(13)
+    puts.o                    ../libwrk/pet/puts.s(15)
+_strlower (strlower.o):
+    _printf.o                 common/_printf.s(13)
+_ultoa (ltoa.o):
+    _printf.o                 common/_printf.s(12)
+_vfprintf (vfprintf.o):
+    printf.o                  common/printf.s(8)
+_write (write.o):
+    fwrite.o                  common/fwrite.s(10)
+    puts.o                    ../libwrk/pet/puts.s(16)
+addysp (addysp.o):
+    incsp6.o                  runtime/incsp6.s(8)
+    fwrite.o                  common/fwrite.s(11)
+    printf.o                  common/printf.s(8)
+axlong (axlong.o):
+    _printf.o                 common/_printf.s(11)
+axulong (axlong.o):
+    _printf.o                 common/_printf.s(11)
+callmain (callmain.o):
+    crt0.o                    pet/crt0.s(9)
+checkst (checkst.o):
+    kopen.o                   pet/kopen.s(8)
+    kckout.o                  pet/kckout.s(8)
+    kbsout.o                  pet/kbsout.s(8)
+decsp4 (decsp4.o):
+    lpush.o                   runtime/lpush.s(12)
+decsp6 (decsp6.o):
+    _printf.o                 common/_printf.s(11)
+donelib (condes.o):
+    crt0.o                    pet/crt0.s(7)
+fdtab (filedes.o):
+    write.o                   cbm/filedes.inc(7)
+incsp2 (incsp2.o):
+    popsreg.o                 runtime/popsreg.s(8)
+    puts.o                    ../libwrk/pet/puts.s(80)
+incsp6 (incsp6.o):
+    fwrite.o                  common/fwrite.s(11)
+    vfprintf.o                common/vfprintf.s(9)
+initlib (condes.o):
+    crt0.o                    pet/crt0.s(7)
+ldaxysp (ldaxsp.o):
+    fwrite.o                  common/fwrite.s(11)
+    puts.o                    ../libwrk/pet/puts.s(80)
+mul8x16 (mul8.o):
+    mul.o                     runtime/mul.s(8)
+mul8x16a (mul8.o):
+    mul.o                     runtime/mul.s(8)
+popax (incsp2.o):
+    rwcommon.o                cbm/rwcommon.s(9)
+    ltoa.o                    common/ltoa.s(9)
+    _printf.o                 common/_printf.s(11)
+popsreg (popsreg.o):
+    udiv.o                    runtime/udiv.s(8)
+    mul8.o                    runtime/mul8.s(9)
+    mul.o                     runtime/mul.s(9)
+ptr1 (zeropage.o):
+    udiv.o                    runtime/udiv.s(9)
+    strlower.o                common/strlower.s(14)
+    rwcommon.o                cbm/rwcommon.s(10)
+    ltoa.o                    common/ltoa.s(11)
+    fwrite.o                  common/fwrite.s(14)
+    _printf.o                 /build/cc65-u5XJyk/cc65-2.16/asminc/zeropage.inc(12)
+    zerobss.o                 common/zerobss.s(9)
+    write.o                   cbm/write.s(12)
+    vfprintf.o                common/vfprintf.s(11)
+    strlen.o                  common/strlen.s(12)
+    puts.o                    ../libwrk/pet/puts.s(11)
+    printf.o                  common/printf.s(9)
+ptr2 (zeropage.o):
+    strlower.o                common/strlower.s(14)
+    rwcommon.o                cbm/rwcommon.s(10)
+    ltoa.o                    common/ltoa.s(11)
+    _printf.o                 /build/cc65-u5XJyk/cc65-2.16/asminc/zeropage.inc(12)
+    write.o                   cbm/write.s(12)
+ptr3 (zeropage.o):
+    rwcommon.o                cbm/rwcommon.s(10)
+    ltoa.o                    common/ltoa.s(11)
+    write.o                   cbm/write.s(12)
+ptr4 (zeropage.o):
+    udiv.o                    runtime/udiv.s(9)
+    mul8.o                    runtime/mul8.s(10)
+    mul.o                     runtime/mul.s(10)
+push1 (push1.o):
+    _printf.o                 common/_printf.s(11)
+    vfprintf.o                common/vfprintf.s(9)
+pusha0 (pushax.o):
+    push1.o                   runtime/push1.s(8)
+    puts.o                    ../libwrk/pet/puts.s(80)
+pushax (pushax.o):
+    fwrite.o                  common/fwrite.s(11)
+    callmain.o                runtime/callmain.s(11)
+    _printf.o                 common/_printf.s(11)
+    puts.o                    ../libwrk/pet/puts.s(80)
+    printf.o                  common/printf.s(8)
+    test.o                    test.s(51)
+pusheax (lpush.o):
+    _printf.o                 common/_printf.s(11)
+pushwysp (pushwsp.o):
+    fwrite.o                  common/fwrite.s(11)
+    vfprintf.o                common/vfprintf.s(9)
+    puts.o                    ../libwrk/pet/puts.s(80)
+regbank (zeropage.o):
+    _printf.o                 /build/cc65-u5XJyk/cc65-2.16/asminc/zeropage.inc(14)
+rwcommon (rwcommon.o):
+    write.o                   cbm/write.s(11)
+sp (zeropage.o):
+    decsp4.o                  runtime/decsp4.s(8)
+    pushwsp.o                 runtime/pushwsp.s(8)
+    popsreg.o                 runtime/popsreg.s(9)
+    lpush.o                   runtime/lpush.s(13)
+    ldaxsp.o                  runtime/ldaxsp.s(8)
+    incsp2.o                  runtime/incsp2.s(8)
+    decsp6.o                  runtime/decsp6.s(8)
+    addysp.o                  runtime/addysp.s(8)
+    _printf.o                 /build/cc65-u5XJyk/cc65-2.16/asminc/zeropage.inc(11)
+    vfprintf.o                common/vfprintf.s(11)
+    pushax.o                  runtime/pushax.s(8)
+    printf.o                  common/printf.s(9)
+    crt0.o                    /build/cc65-u5XJyk/cc65-2.16/asminc/zeropage.inc(11)
+sreg (zeropage.o):
+    udiv.o                    runtime/udiv.s(9)
+    popsreg.o                 runtime/popsreg.s(9)
+    mul8.o                    runtime/mul8.s(10)
+    mul.o                     runtime/mul.s(10)
+    ltoa.o                    common/ltoa.s(11)
+    lpush.o                   runtime/lpush.s(13)
+    axlong.o                  runtime/axlong.s(9)
+    _printf.o                 /build/cc65-u5XJyk/cc65-2.16/asminc/zeropage.inc(11)
+tmp1 (zeropage.o):
+    mul.o                     runtime/mul.s(10)
+    ltoa.o                    common/ltoa.s(11)
+    _printf.o                 /build/cc65-u5XJyk/cc65-2.16/asminc/zeropage.inc(13)
+tmp2 (zeropage.o):
+    rwcommon.o                cbm/rwcommon.s(10)
+tosudivax (udiv.o):
+    fwrite.o                  common/fwrite.s(12)
+tosumulax (mul.o):
+    fwrite.o                  common/fwrite.s(12)
+zerobss (zerobss.o):
+    crt0.o                    pet/crt0.s(8)
+
